@@ -1,4 +1,62 @@
-### Hi there 👋
+### Hello, world! I'm Alison Zhang 👋
+
+As of August 2021, I am a junior majoring in Computer Science and Economics @ UNC-Chapel Hill. Currently in an exploratory phase -- would love to go into SWE, data science, cybersecurity, and more!
+
+## 🌺 I know...
+
+**Programming & Web Development**
+* Java (JUnit, JavaFX, Swing)
+* JavaScript (ES6+)
+* HTML5 & CSS3
+* React & jQuery
+* Material-UI & Bulma
+* Firebase
+
+**Data Modeling & Analysis**
+* SQL
+* Python
+* R
+* Stata
+
+**Design & Prototyping**
+* Adobe Photoshop + Premiere Pro
+* Figma
+
+**Misc.**
+* Salesforce (Apex/Visualforce, Lightning Web Components, Admin)
+* JIRA
+* Microsoft Office Suite
+* Agile/SCRUM Methodologies
+
+<br/>
+
+## 🌻 I'm currently working on...
+
+**... uplifting fellow students in tech**
+as an Undergraduate Learning Assistant for "Foundations of Programming", CS Student Ambassador, hackathon director for Pearl Hacks, and former Girls Who Code volunteer!
+
+**... promoting interdisciplinary learning**
+as a BeAM (BE A Makerspace) Program Assistant and hackathon director for Carolina Data Challenge!
+
+**... finding myself within the industry**
+as a part-time intern for MetLife and 2021 IBM Accelerate Software Track participant!
+
+<br/>
+
+## 🌱 I want to explore...
+
+* Cybersecurity & tech ethics
+* Open Source communities
+* Economic and business applications of data
+* Tech used for social good
+
+<br/>
+
+## 🌼 I can be contacted via...
+
+* LinkedIn: https://www.linkedin.com/in/azhang919/
+* Email (university): ayzhang@live.unc.edu
+* Personal Website: coming soon!
 
 <!--
 **azhang919/azhang919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
