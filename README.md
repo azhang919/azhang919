@@ -1,6 +1,6 @@
-### Hello, world! I'm Alison Zhang 👋
+### 🌵 Hello, world! I am...
 
-As of August 2021, I am a junior majoring in Computer Science and Economics @ UNC-Chapel Hill. Currently in an exploratory phase -- would love to go into SWE, data science, cybersecurity, and more!
+Alison Zhang, a junior majoring in Computer Science and Economics @ UNC-Chapel Hill. Currently in an exploratory phase -- would love to go into SWE, data science, cybersecurity, and more!
 
 ## 🌺 I know...
 
@@ -46,7 +46,7 @@ as a part-time intern for MetLife and 2021 IBM Accelerate Software Track partici
 ## 🌱 I want to explore...
 
 * Cybersecurity & tech ethics
-* Open Source communities
+* Open source communities
 * Economic and business applications of data
 * Tech used for social good
 
