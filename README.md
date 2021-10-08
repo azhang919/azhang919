@@ -23,7 +23,7 @@ Alison Zhang, a junior majoring in Computer Science and Economics @ UNC-Chapel H
 * Figma
 
 **Misc.**
-* Salesforce (Apex/Visualforce, Lightning Web Components, Admin)
+* Salesforce (Apex/Visualforce, SOQL, Lightning Web Components, Admin)
 * JIRA
 * Microsoft Office Suite
 * Agile/SCRUM Methodologies
