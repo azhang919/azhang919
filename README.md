@@ -7,9 +7,9 @@ Alison Zhang, a junior majoring in Computer Science and Economics @ UNC-Chapel H
 **Programming & Web Development**
 * Java (JUnit, JavaFX, Swing)
 * JavaScript (ES6+)
-* HTML5 & CSS3
-* React & jQuery
-* Material-UI & Bulma
+* HTML5, CSS3
+* React, jQuery
+* Material-UI, Bulma, Bootstrap
 * Firebase
 
 **Data Modeling & Analysis**
