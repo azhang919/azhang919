@@ -12,6 +12,7 @@ Alison Zhang, a junior majoring in Computer Science and Economics @ UNC-Chapel H
 * Material-UI, Bulma, Bootstrap
 * Firebase
 * Express
+* C
 
 **Data Modeling & Analysis**
 * SQL
