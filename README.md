@@ -31,6 +31,9 @@ Alison Zhang, a senior @ UNC-Chapel Hill. Have found an engaging career path in 
 
 ## 🌻 I'm currently working on...
 
+**... applying technology towards social good**
+as the Tech Lead / Head SWE for a volunteer tracker web application, designed to help a local non-profit dental clinic optimize its volunteer workflows and provide better services for underprivileged adults in the community!
+
 **... uplifting fellow students in tech**
 as the Head Undergraduate Learning Assistant for "Foundations of Programming", hackathon chair for Pearl Hacks, previous CS Student Ambassador, and former Girls Who Code volunteer!
 
