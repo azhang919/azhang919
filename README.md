@@ -1,32 +1,29 @@
 # 🌵 Hello, world! I am...
 
-Alison Zhang, a junior majoring in Computer Science and Economics @ UNC-Chapel Hill. Currently in an exploratory phase -- would love to go into SWE, data science, cybersecurity, and more!
+Alison Zhang, a senior @ UNC-Chapel Hill. Have found an engaging career path in software engineering, though I'm a passionate amateur for all things tech!
 
 ## 🌺 I know...
 
-**Programming & Web Development**
-* Java (JUnit, JavaFX, Swing)
-* JavaScript (ES6+)
-* HTML5, CSS3
-* React, jQuery
-* Material-UI, Bulma, Bootstrap
-* Firebase
-* Express
-* C
+**Web & Cloud Development**
+* Java (JUnit, JavaFX, Swing), JavaScript, HTML, CSS
+* React, Next.js, Express, jQuery
+* TailwindCSS, Material-UI, Bulma, Bootstrap
+* Firebase, Supabase
+* Salesforce (Apex/Visualforce, SOQL, Lightning Web Components, Admin)
+* AWS (Lambda, EC2)
+* Jenkins
 
-**Data Modeling & Analysis**
-* SQL
-* Python
-* R
-* Stata
+**Data Science & Analytics**
+* Python, R, SQL, Stata, Excel, Tableau
+* k-Means Clustering, Classification Models & Regressions
+* Textual Sentiment Analysis, Market Basket Analysis
 
 **Design & Prototyping**
 * Adobe Photoshop + Premiere Pro
 * Figma
 
-**Misc.**
-* Salesforce (Apex/Visualforce, SOQL, Lightning Web Components, Admin)
-* JIRA
+**Business & Project Management**
+* JIRA, Linear
 * Microsoft Office Suite
 * Agile/SCRUM Methodologies
 
@@ -35,22 +32,22 @@ Alison Zhang, a junior majoring in Computer Science and Economics @ UNC-Chapel H
 ## 🌻 I'm currently working on...
 
 **... uplifting fellow students in tech**
-as an Undergraduate Learning Assistant for "Foundations of Programming", CS Student Ambassador, hackathon director for Pearl Hacks, and former Girls Who Code volunteer!
+as the Head Undergraduate Learning Assistant for "Foundations of Programming", hackathon chair for Pearl Hacks, previous CS Student Ambassador, and former Girls Who Code volunteer!
 
 **... promoting interdisciplinary learning**
-as a BeAM (BE A Makerspace) Program Assistant and hackathon director for Carolina Data Challenge!
+as a double Computer Science & Economics major and Business minor, with formal work experience in various business/finance/tech roles!
 
-**... finding myself within the industry**
-as a part-time intern for MetLife and 2021 IBM Accelerate Software Track participant!
+**... building my career within the tech industry**
+as an income SWE at Capital One, with previous intern/extern experiences at MetLife and IBM!
 
 <br/>
 
-## 🌱 I want to explore...
+## 🌱 In my free time, I want to explore...
 
-* Cybersecurity & tech ethics
+* Cybersecurity & technology ethics
 * Open source communities
-* Economic and business applications of data
 * Tech used for social good
+* Rock climbing (why are all engineers so interested in it?)
 
 <br/>
 
@@ -58,7 +55,6 @@ as a part-time intern for MetLife and 2021 IBM Accelerate Software Track partici
 
 * LinkedIn: https://www.linkedin.com/in/azhang919/
 * Email (university): ayzhang@live.unc.edu
-* Personal Website: coming soon!
 
 <!--
 **azhang919/azhang919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
