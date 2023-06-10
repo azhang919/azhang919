@@ -1,6 +1,6 @@
 # 🌵 Hello, world! I am...
 
-Alison Zhang, a senior @ UNC-Chapel Hill. Have found an engaging career path in software engineering, though I'm a passionate amateur for all things tech!
+Alison Zhang, a recent graduate of UNC-Chapel Hill and (semi-)professional software engineer! Currently beep-booping my way around :)
 
 ## 🌺 I know...
 
@@ -8,9 +8,9 @@ Alison Zhang, a senior @ UNC-Chapel Hill. Have found an engaging career path in 
 * Java (JUnit, JavaFX, Swing), JavaScript, HTML, CSS
 * React, Next.js, Express, jQuery
 * TailwindCSS, Material-UI, Bulma, Bootstrap
+* AWS (Lambda, EC2)
 * Firebase, Supabase
 * Salesforce (Apex/Visualforce, SOQL, Lightning Web Components, Admin)
-* AWS (Lambda, EC2)
 * Jenkins
 
 **Data Science & Analytics**
@@ -31,17 +31,14 @@ Alison Zhang, a senior @ UNC-Chapel Hill. Have found an engaging career path in 
 
 ## 🌻 I'm currently working on...
 
-**... applying technology towards social good**
-as the Tech Lead / Head SWE for a volunteer tracker web application, designed to help a local non-profit dental clinic optimize its volunteer workflows and provide better services for underprivileged adults in the community!
+**... self-reflection and exploration**
+as I close a chapter of my life with graduation, and I get to spend my summer traveling abroad :D
 
-**... uplifting fellow students in tech**
-as the Head Undergraduate Learning Assistant for "Foundations of Programming", hackathon chair for Pearl Hacks, previous CS Student Ambassador, and former Girls Who Code volunteer!
+**... starting a career in tech**
+as an incoming full-time software engineer, whoo hoo ~
 
-**... promoting interdisciplinary learning**
-as a double Computer Science & Economics major and Business minor, with formal work experience in various business/finance/tech roles!
-
-**... building my career within the tech industry**
-as an income SWE at Capital One, with previous intern/extern experiences at MetLife and IBM!
+**... seeking (and providing) mentorship**
+as I seek official mentorship in my field and offer some advice to other UNC students in turn!
 
 <br/>
 
@@ -50,6 +47,7 @@ as an income SWE at Capital One, with previous intern/extern experiences at MetL
 * Cybersecurity & technology ethics
 * Open source communities
 * Tech used for social good
+* Good food ~
 * Rock climbing (why are all engineers so interested in it?)
 
 <br/>
@@ -57,7 +55,6 @@ as an income SWE at Capital One, with previous intern/extern experiences at MetL
 ## 🌼 I can be contacted via...
 
 * LinkedIn: https://www.linkedin.com/in/azhang919/
-* Email (university): ayzhang@live.unc.edu
 
 <!--
 **azhang919/azhang919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
