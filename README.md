@@ -1,20 +1,19 @@
 # 🌵 Hello, world! I am...
 
-Alison Zhang, a recent graduate of UNC-Chapel Hill and (semi-)professional software engineer! Currently beep-booping my way around :)
+Alison Zhang, a (mainly back-end) software engineer! Currently beep-booping my way around :)
 
 ## 🌺 I know...
 
 **Web & Cloud Development**
-* Java (JUnit, JavaFX, Swing), JavaScript, HTML, CSS
-* React, Next.js, Express, jQuery
-* TailwindCSS, Material-UI, Bulma, Bootstrap
-* AWS (Lambda, EC2)
-* Firebase, Supabase
-* Salesforce (Apex/Visualforce, SOQL, Lightning Web Components, Admin)
-* Jenkins
+* Java (Spring)
+* Kafka, Apache Spark, Hadoop
+* Python, SQL, Snowflake
+* JavaScript (Express, Next.js)
+* React, TailwindCSS, Material-UI, Bulma, Bootstrap
+* AWS (Lambda, EC2/ECS Fargate, SQS, S3, Glue, EMR)
 
 **Data Science & Analytics**
-* Python, R, SQL, Stata, Excel, Tableau
+* R, Stata, Excel, Tableau
 * k-Means Clustering, Classification Models & Regressions
 * Textual Sentiment Analysis, Market Basket Analysis
 
@@ -32,13 +31,13 @@ Alison Zhang, a recent graduate of UNC-Chapel Hill and (semi-)professional softw
 ## 🌻 I'm currently working on...
 
 **... self-reflection and exploration**
-as I close a chapter of my life with graduation, and I get to spend my summer traveling abroad :D
+as I develop more expertise in complex data streaming architectures
 
-**... starting a career in tech**
-as an incoming full-time software engineer, whoo hoo ~
+**... growing my career in tech**
+as an aspiring senior SWE ~
 
 **... seeking (and providing) mentorship**
-as I seek official mentorship in my field and offer some advice to other UNC students in turn!
+as I seek official mentorship in my field and offer some advice to junior engineers in turn!
 
 <br/>
 
@@ -48,7 +47,7 @@ as I seek official mentorship in my field and offer some advice to other UNC stu
 * Open source communities
 * Tech used for social good
 * Good food ~
-* Rock climbing (why are all engineers so interested in it?)
+* Different countries!
 
 <br/>
 
