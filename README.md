@@ -1,43 +1,84 @@
 # 🌵 Hello, world! I am...
 
-Alison Zhang, a (mainly back-end) software engineer! Currently beep-booping my way around :)
+Alison Zhang, but you can call me Lia! I'm a (mainly) back-end software engineer, but I also have experience in full-stack and data engineering! I'm currently beep-booping my way around :)
 
 ## 🌺 I know...
 
-**Web & Cloud Development**
-* Java (Spring)
-* Kafka, Apache Spark, Hadoop
-* Python, SQL, Snowflake
-* JavaScript (Express, Next.js)
-* React, TailwindCSS, Material-UI, Bulma, Bootstrap
-* AWS (Lambda, EC2/ECS Fargate, SQS, S3, Glue, EMR)
+**Back-end & Data Engineering**
+* Java Spring Boot, Python, PySpark
+* Microservices
+* REST APIs
+* Distributed Systems
+* Event-Driven Architecture
+* System Design
+* Kafka
+* PostgreSQL
+* Redis
+* Airflow
+
+**Front-end & Full-stack Engineering**
+* Javascript
+* React
+* Node
+* Next.js
+* Express
+* Bootstrap
+* TailwindCSS
+
+**Cloud Services (AWS)**
+* SQS
+* S3
+* Lambda
+* EC2/Fargate
+* EMR
+* SNS
+* IAM
+* Elasticache
+* DynamoDB
+* Secrets Manager
+* CloudWatch
+* CloudFormation
+
+**Automated Testing**
+* JUnit
+* Mockito
+* Cucumber/Gherkin
+* Behave
+* Hercules
+* JMeter
+* K6
+
+**Observability, Telemetry & Alerting**
+* Splunk
+* NewRelic
+* Observe
 
 **Data Science & Analytics**
-* R, Stata, Excel, Tableau
+* R
+* Stata
+* Microsoft Excel
+* Tableau
 * k-Means Clustering, Classification Models & Regressions
-* Textual Sentiment Analysis, Market Basket Analysis
+* Textual Sentiment Analysis
+* Market Basket Analysis
 
-**Design & Prototyping**
-* Adobe Photoshop + Premiere Pro
-* Figma
-
-**Business & Project Management**
-* JIRA, Linear
-* Microsoft Office Suite
-* Agile/SCRUM Methodologies
+**DevOps & Tooling**
+* Docker
+* Jenkins
+* Git
 
 <br/>
 
 ## 🌻 I'm currently working on...
 
-**... self-reflection and exploration**
-as I develop more expertise in complex data streaming architectures
+**... designing solutions for distributed architecture**
+that are high-impact, resilient, and scalable
 
-**... growing my career in tech**
-as an aspiring senior SWE ~
+**... learning how to efficiently leverage AI**
+as it becomes more integrated in my day-to-day work
 
-**... seeking (and providing) mentorship**
-as I seek official mentorship in my field and offer some advice to junior engineers in turn!
+**... providing mentorship to others**
+as an SME in multiple domains and someone passionate about career development!
 
 <br/>
 
